@@ -8,9 +8,9 @@
 			embeddedservice_bootstrap.init(
 				'00DO9000007tPxp',
 				'Testing_Deployment',
-				'https://affinity2ndorg--patricksbx.sandbox.my.site.com/ESWTestingDeployment1721060666954',
+				'https://MYDOMAIN--patricksbx.sandbox.my.site.com/ESWTestingDeployment1721060666954',
 				{
-					scrt2URL: 'https://affinity2ndorg--patricksbx.sandbox.my.salesforce-scrt.com'
+					scrt2URL: 'https://MYDOMAIN--patricksbx.sandbox.my.salesforce-scrt.com'
 				}
 			);
 		} catch (err) {
@@ -18,6 +18,6 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://affinity2ndorg--patricksbx.sandbox.my.site.com/ESWTestingDeployment1721060666954/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://MYDOMAIN--patricksbx.sandbox.my.site.com/ESWTestingDeployment1721060666954/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 </body>
 </html>
